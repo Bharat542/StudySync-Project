@@ -636,6 +636,6 @@ ul{
       grid-template-columns: repeat(2,1fr);
   }
   .footer-grid{
-   margin-left:-0.5rem; 
+   margin-right:1.3rem; 
   }
 }
