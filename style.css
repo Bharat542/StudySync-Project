@@ -630,12 +630,12 @@ ul{
 
 @media screen and (max-width:850px) {
   .footer-top{
-      padding-left: 0rem;
+      margin-right:20rem;
   }
   .footer-grid{
       grid-template-columns: repeat(2,1fr);
   }
   .footer-grid{
-   margin-right:1.3rem; 
+   margin-right:10rem; 
   }
 }
