@@ -176,10 +176,10 @@ background-color: var(--gray);
  display: flex;
  align-items: center;
  justify-content: center; 
- animation:slideFromRight 1s ease forwards;
- opacity: 0;  
+ /* animation:slideFromRight 1s ease forwards;
+ opacity: 0;   */
 }
-@keyframes slideFromRight{
+/* @keyframes slideFromRight{
     0%{
      opacity:0;
      transform:translateX(100%);
@@ -188,7 +188,7 @@ background-color: var(--gray);
      opacity:1;
      transform:translateX(0);
     }
- } 
+ }  */
 .image-container{
   border-radius: 1.225rem;
   overflow: hidden;
